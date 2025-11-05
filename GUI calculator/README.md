@@ -1,20 +1,9 @@
-# python-projects
-
-### Suggested commit message
-
-```
-Add Python GUI Calculator with basic arithmetic operations
-```
-
----
-
-### README.md content
 
 # Python GUI Calculator
 
 A simple GUI-based calculator built with Python and Tkinter. Perform basic arithmetic operations including addition, subtraction, multiplication, and division. Designed to be easy to use with a clear interface.
 
-## 🚀 Features
+## Features
 
 * Addition, subtraction, multiplication, and division
 * Parentheses support for complex calculations
@@ -22,12 +11,12 @@ A simple GUI-based calculator built with Python and Tkinter. Perform basic arith
 * Real-time display of input and results
 * Handles errors gracefully
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **GUI Framework:** Tkinter
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
@@ -37,7 +26,7 @@ A simple GUI-based calculator built with Python and Tkinter. Perform basic arith
 2. Navigate into the project folder:
 
    ```bash
-   cd Python-GUI-Calculator
+   cd python-projects
    ```
 3. Run the calculator:
 
